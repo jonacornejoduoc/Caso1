@@ -11,4 +11,5 @@ public class Producto {
     private String nombre;
     private String categoria;
     private int precio;
+    
 }
